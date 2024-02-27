@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 /*
 git remote add origin 链接
@@ -6,14 +6,13 @@ git remote add origin 链接
 
 git remote -v 查看远程仓库
 
-git push remote origin 推到远程仓库
+git push origin master 推到远程仓库
 
 git add xxx .
 
-git commit -m 
+git commit -m
 
 */
 signed main()
 {
-
 }
